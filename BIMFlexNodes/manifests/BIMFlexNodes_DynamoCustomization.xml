@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<doc>
+  <assembly>
+    <name>BIMFlexNodes</name>
+  </assembly>
+  <namespaces>
+    <!--Uncomment the below and change how the class will be displayed in Dynamo Library -->
+    <namespace name="BIMFlexNodes">
+      <category>BIMFlexNodes</category>
+    </namespace>
+  </namespaces>
+</doc>

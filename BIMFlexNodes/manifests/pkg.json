@@ -1,0 +1,20 @@
+﻿{
+  "license": "",
+  "file_hash": null,
+  "name": "BIMFlexNodes",
+  "version": "0.1.0",
+  "description": "A collection of nodes made for fun!",
+  "group": "",
+  "keywords": null,
+  "dependencies": [],
+  "contents": "",
+  "engine_version": "2.0.0.4604",
+  "engine": "dynamo",
+  "engine_metadata": "",
+  "site_url": "https://bimflex.org",
+  "repository_url": "https://github.com/bimflex/BIMflexNodes",
+  "contains_binaries": true,
+  "node_libraries": [
+    "BIMFlexNodes, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
